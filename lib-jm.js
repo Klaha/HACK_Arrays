@@ -1,4 +1,3 @@
-// var caja = ["Juan", "Jose", "Jonathan", "Chiabe"];
 var i;
 
 function hack_delete(posicion, arreglo)
@@ -15,8 +14,6 @@ function hack_delete(posicion, arreglo)
   return nuevaCaja;
 }
 
-// console.log(hack_delete(2, caja));
-
 function hack_pop(arreglo)
 {
   var nuevaCaja2 = [];
@@ -31,15 +28,11 @@ function hack_pop(arreglo)
   return [arreglo[0], nuevaCaja2];
 }
 
-// console.log(hack_pop(caja));
-
 function hack_push(elemento, arreglo)
 {
   arreglo[arreglo.length] = elemento;
   return arreglo;
 }
-
-// console.log(hack_push("Obama", caja))
 
 function hack_search(elemento, arreglo)
 {
@@ -54,6 +47,3 @@ function hack_search(elemento, arreglo)
   }
   return pos;
 }
-
-// console.log(hack_search('Jonathan', caja));
-// console.log(hack_search('Hack', caja));
