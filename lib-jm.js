@@ -1,5 +1,4 @@
-var caja = ["Juan", "Jose", "Jonathan", "Chiabe"];
-var ciclo = true;
+// var caja = ["Juan", "Jose", "Jonathan", "Chiabe"];
 var i;
 
 function hack_delete(posicion, arreglo)
