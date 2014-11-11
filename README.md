@@ -1,4 +1,4 @@
-:punch::boom: Libreria JS - HACK :boom::punch:
+:punch::boom: Libreria JS ARRAYS - HACK :boom::punch:
 ======================
 
 Programar una librería en JavaScript que realice las siguientes funciones:
